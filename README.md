@@ -28,3 +28,9 @@ GoChain has a number of repositories, some important ones include:
 ## Stack
 
 GoChain has a number of stacks as languages used in the project development. The top ones consist: 
+
+  <a href="https://go.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.dart.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+    <a href="https://soliditylang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
