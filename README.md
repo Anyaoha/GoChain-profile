@@ -22,3 +22,9 @@ GoChain has a number of repositories, some important ones include:
 * [explorer](https://github.com/gochain/explorer): the interface used for exploring the GoChain blockchain network.
 * [gochain](https://github.com/gochain/gochain): the goland implementation of the GoChain protocol.
 * [web3](https://github.com/gochain/web3): a `web3` command line (CLI) tool to interact with web3 blockchains - Gochain, Ethereum, etc. and also exports the backing golang `package web3`.
+
+
+
+## Stack
+
+GoChain has a number of stacks as languages used in the project development. The top ones consist: 
